@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "name": "The Great Gatsby",
+    "title": "The Great Gatsby",
+    "price": 10.99,
+    "category": "paid",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Classic",
+    "publisher": "Scribner",
+    "imageURL": "https://m.media-amazon.com/images/I/61z0MrB6qOS._AC_UY327_FMwebp_QL65_.jpg"
+  },
+  {
+    "id": 2,
+    "name": "To Kill a Mockingbird",
+    "title": "To Kill a Mockingbird",
+    "price": 9.99,
+    "category": "paid",
+    "author": "Harper Lee",
+    "genre": "Fiction",
+    "publisher": "J. B. Lippincott & Co.",
+    "imageURL": "https://m.media-amazon.com/images/I/81aY1lxk+9L._AC_UY327_FMwebp_QL65_.jpg"
+  },
+  {
+    "id": 3,
+    "name": "1984",
+    "title": "1984",
+    "category": "paid",
+    "price": 8.99,
+    "author": "George Orwell",
+    "genre": "Dystopian",
+    "publisher": "Secker & Warburg",
+    "imageURL": "https://m.media-amazon.com/images/I/8168gL2uV0L._AC_UY327_FMwebp_QL65_.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Pride and Prejudice",
+    "title": "Pride and Prejudice",
+    "price": 7.99,
+    "category": "paid",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "publisher": "T. Egerton, Whitehall",
+    "imageURL": "https://m.media-amazon.com/images/I/81NLDvyAHrL._AC_UY327_FMwebp_QL65_.jpg"
+  },
+  {
+    "id": 5,
+    "name": "The Catcher in the Rye",
+    "title": "The Catcher in the Rye",
+    "price": 10.49,
+    "category": "paid",
+    "author": "J.D. Salinger",
+    "genre": "Coming-of-age",
+    "publisher": "Little, Brown and Company",
+    "imageURL": "https://m.media-amazon.com/images/I/71nXPGovoTL._AC_UY327_FMwebp_QL65_.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Harry Potter ",
+    "title": "Harry Potter",
+    "price": 11.99,
+    "author": "J.K. Rowling",
+    "category":"free",
+    "genre": "Fantasy",
+    "publisher": "Bloomsbury",
+    "imageURL": "https://m.media-amazon.com/images/I/91eopoUCjLL._AC_UY327_FMwebp_QL65_.jpg"
+  },
+  {
+    "id": 7,
+    "name": "The Hobbit",
+    "title": "The Hobbit",
+    "price": 9.49,
+    "author": "J.R.R. Tolkien",
+    "category": "free",
+    "genre": "Fantasy",
+    "publisher": "George Allen & Unwin",
+    "imageURL": "https://m.media-amazon.com/images/I/61Ng-W9EhBL._AC_UY327_FMwebp_QL65_.jpg"
+  },
+  {
+    "id": 8,
+    "name": "The Lord of the Rings",
+    "title": "The Lord of the Rings",
+    "price": 19.99,
+    "author": "J.R.R. Tolkien",
+    "category": "free",
+    "genre": "Fantasy",
+    "publisher": "George Allen & Unwin",
+    "imageURL": "https://m.media-amazon.com/images/I/81XH+m22mjL._AC_UY327_FMwebp_QL65_.jpg"
+  },
+  {
+    "id": 9,
+    "name": "The Da Vinci Code",
+    "title": "The Da Vinci Code",
+    "price": 12.99,
+    "author": "Dan Brown",
+    "category": "free",
+    "genre": "Mystery",
+    "publisher": "Doubleday",
+    "imageURL": "https://m.media-amazon.com/images/I/815WORuYMML._AC_UY327_FMwebp_QL65_.jpg"
+  },
+  {
+    "id": 10,
+    "name": "The Hunger Games",
+    "title": "The Hunger Games",
+    "price": 8.49,
+    "category": "free",
+    "author": "Suzanne Collins",
+    "genre": "Dystopian",
+    "publisher": "Scholastic Corporation",
+    "imageURL": "https://m.media-amazon.com/images/I/61I24wOsn8L._AC_UY327_FMwebp_QL65_.jpg"
+  },
+  {
+    "id": 11,
+    "name": "The Alchemist",
+    "title": "The Alchemist",
+    "price": 9.99,
+    "category": "paid",
+    "author": "Paulo Coelho",
+    "genre": "Fiction",
+    "publisher": "HarperCollins",
+    "imageURL": "https://m.media-amazon.com/images/I/71zHDXu1TaL._AC_UY327_FMwebp_QL65_.jpg"
+  },
+  {
+    "id": 12,
+    "name": "The Girl with the Dragon Tattoo",
+    "title": "The Girl with the Dragon Tattoo",
+    "price": 11.49,
+    "author": "Stieg Larsson",
+    "category": "free",
+    "genre": "Mystery",
+    "publisher": "Norstedts Förlag",
+    "imageURL": "https://m.media-amazon.com/images/I/71jy1t1N57L._AC_UY327_FMwebp_QL65_.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Gone with the Wind",
+    "title": "Gone with the Wind",
+    "price": 14.99,
+    "category": "paid",
+    "author": "Margaret Mitchell",
+    "genre": "Historical Fiction",
+    "publisher": "Macmillan Publishers",
+    "imageURL": "https://m.media-amazon.com/images/I/911x8Q1VLgL._AC_UY327_FMwebp_QL65_.jpg"
+  },
+  {
+    "id": 14,
+    "name": "The Road",
+    "title": "The Road",
+    "category": "paid",
+    "price": 10.99,
+    "author": "Cormac McCarthy",
+    "genre": "Post-apocalyptic",
+    "publisher": "Alfred A. Knopf",
+    "imageURL": "https://m.media-amazon.com/images/I/51M7XGLQTBL._AC_UY327_FMwebp_QL65_.jpg"
+  },
+  {
+    "id": 15,
+    "name": "The Chronicles of Narnia",
+    "title": "The Chronicles of Narnia",
+    "category": "free",
+    "price": 17.99,
+    "author": "C.S. Lewis",
+    "genre": "Fantasy",
+    "publisher": "Geoffrey Bles",
+    "imageURL": "https://m.media-amazon.com/images/I/91H85tYZlgL._AC_UY327_FMwebp_QL65_.jpg"
+  }
+]
